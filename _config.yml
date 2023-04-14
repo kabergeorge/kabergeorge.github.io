@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   George Kaberoglou | Notion Templates | Fitness & Productivity | 2023
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: " https://kabergeorge.github.io/"
+url: "https://kabergeorge.github.io/"
 
 github:
   username: kabergeorge # change to your github username
