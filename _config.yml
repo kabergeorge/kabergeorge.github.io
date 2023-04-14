@@ -42,7 +42,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/kabergeorge # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://github.com/kabergeorge # change to your github homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/kabergeorge
     - https://www.linkedin.com/in/kabergeorge
@@ -77,7 +77,7 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://chirpy-img.netlify.app"
+img_cdn: "https://twitter.com/kabergeorge/photo"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/commons/avatar.jpg"
