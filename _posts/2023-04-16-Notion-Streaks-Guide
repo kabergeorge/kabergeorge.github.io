@@ -51,7 +51,7 @@ Count the length of the remaining string and subtract it from the total number o
 ## Databases
 
 
-> 💡 This database is where you’ll be seeing your streaks. It need 3 Formulas, a Relation and a Rollup property in order to work. The “format (Show Original)” Formula is used to explain how this method works.
+> 💡 This database is where you’ll be seeing your streaks. It needs 3 Formulas, a Relation and a Rollup property in order to work. The “format (Show Original)” Formula is used to explain how this method works.
 
 
 [ Streak Tracker](https://www.notion.so/7284abd924dc465b862aec3150e99ce7)
