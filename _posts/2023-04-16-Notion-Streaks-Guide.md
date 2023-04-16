@@ -1,10 +1,11 @@
 ---
 layout : post
 title: Notion Streaks Guide
-date: 2023-04-8 11:00:00 +0200
-categories: [Norion, Guides & Tools]
+date: 2023-04-16 11:00:00 +0200
+categories: [Notion, Guides & Tools]
 tags: [notion,streaks,tutorial,template]
 ---
+
 
 # Create a Powerful Habit Tracker in Notion: Step-by-Step Guide to Counting Streaks 🔥
 
