@@ -11,7 +11,7 @@ tags: [notion,streaks,tutorial,template]
 
 
 
->🤓 Welcome fellow nerds ! Welcome to my guide. Here Is the mechanism behind my streak tracker. Hope you like it !
+>🤓 Welcome fellow nerds !In this guide we'll be looking to the mechanism behind my streak tracker. Hope you like it !
 
 
 # How it works
