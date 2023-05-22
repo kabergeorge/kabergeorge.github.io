@@ -31,4 +31,6 @@ While injecting lactate has not been found to provide additional benefits for mu
 Lactate, once seen only as a factor in muscle fatigue, is now being recognized for its potential role in muscle growth. By understanding lactate's role in resistance training and incorporating the appropriate strategies, you could unlock new possibilities for maximizing muscle hypertrophy. As always, consult with a fitness professional or healthcare provider before making significant changes to your training program or starting any new supplements.
 
 
-View original [Study](https://www.mdpi.com/2411-5142/7/4/81)
+View original [Study](https://doi.org/10.3390/jfmk7040081)
+
+Lawson, D.; Vann, C.; Schoenfeld, B.J.; Haun, C. Beyond Mechanical Tension: A Review of Resistance Exercise-Induced Lactate Responses & Muscle Hypertrophy. J. Funct. Morphol. Kinesiol. 2022, 7, 81. 
