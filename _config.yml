@@ -47,7 +47,7 @@ social:
     - https://www.facebook.com/kabergeorge
     - https://www.linkedin.com/in/kabergeorge
 
-google_site_verification: RXLI-6bd0vTHK8T-tnQzlP80FV-buOUAYH_4IBHehdc
+google_site_verification: secrets.SITE_VER
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
